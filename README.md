@@ -51,7 +51,7 @@ Recommended options:
 - Netlify
 - Vercel
 
-For GitHub Pages, push this folder to a GitHub repository and enable Pages from the repository settings.
+
 
 ## Author
 Saranja Jeyaradnarajah  
