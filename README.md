@@ -30,7 +30,7 @@ portfolio/
 ├── images/
 ├── assets/
 ├── cv/
-│   └── Saranja_Jeyaradnarajah_CV.pdf   # add your real CV
+│   └── Saranja_Jeyaradnarajah_CV.pdf   
 └── README.md
 ```
 
